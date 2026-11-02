@@ -24,8 +24,6 @@ The application is planned using React.js, HTML, CSS, and JavaScript for the use
 
 Finding a suitable blood donor during emergencies is often difficult due to a lack of centralized information, uncertainty about donor availability, and privacy concerns. Manual or informal methods can lead to delayed responses, incomplete records, and exposure of personal contact details. A secure, centralized online platform is needed to connect donors and recipients efficiently while protecting sensitive information.
 
-## Intended Users
-
 ### Donor
 - Register with blood group, location, and availability details.
 - Receive notifications about relevant blood donation requests.
@@ -124,17 +122,6 @@ Possible future enhancements include:
 - The system should use secure authentication and appropriate access controls.
 - Do not commit passwords, API keys, database credentials, or real donor personal information to this repository.
 - The platform is for coordination only. Donor eligibility, blood-group compatibility, and transfusion decisions must be confirmed by qualified medical professionals or an authorized blood bank.
-
-## Team Details
-
-| S. No. | Team Member | Roll Number | Role |
-|---:|---|---|---|
-| 1 | Pulagam Sai Surekha | 24P32A4292 | Team Leader |
-| 2 | Nallamilli Neha Manasa | 24B11AI287 | Member |
-| 3 | Naga Keerthana Sai Lakshmi Mahadasa | 24P31A05I4 | Member |
-| 4 | Naga Purnima Tatikonda | 24P31A05K4 | Member |
-| 5 | Penumuchu Bhargavi | 24P31A05C0 | Member |
-| 6 | Pandi Rama Sridevi | 24P31A42B4 | Member |
 
 ## Development Plan
 
