@@ -1,0 +1,2 @@
+-- Database schema will be designed during the database implementation phase.
+-- Do not add real donor personal information to this repository.
